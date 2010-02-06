@@ -1,0 +1,26 @@
+	AUTHOR
+   Hans Freitag
+   Jabber or E-Mail: zem at fnordpol.de
+
+	LICENSE
+   gpl  
+
+	USAGE
+
+1. Create a new xml file with your letter content 
+     using the template dinbrief.xml 
+
+2. modify dinbrief.xsl so that it will point to the docbook fo xsl on your system. 
+
+Here are the lines: 
+	<!-- Modify this to the docbook.xsl path on your system -->
+	<xsl:import href="xsl/fo/docbook.xsl"/>
+
+3. run 
+	$ xsltproc dinbrief.xsl yourletter.xml > yourletter.fo
+
+4. run a fo processor (fop or xmlto) to yourletter.fo to get a nixe pdf 
+
+5. print out the pdf 
+
+

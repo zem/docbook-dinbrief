@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dinbrief>
+  <author>
+    <personname>Some Person</personname>
+    <address>
+      <street>Some Street 23</street>
+      <postalcode>83764</postalcode>
+      <city>Footown</city>
+      <phone>+49383947298</phone>
+      <fax>+4982738439</fax>
+      <email>nobody@foobar.net</email>
+    </address>
+  </author>
+  <address>
+    <personname>Max Mustermann</personname>
+    <street>Somestreet 11</street>
+    <postalcode>20728</postalcode>
+    <city>Somewhereelse</city>
+    <country>Germany</country>
+  </address>
+  <date>Montag, 4. Januar 2010</date>
+  <betreff>Hallo Welt</betreff>
+  <anrede>Sehr geehrte Damen und Herren,</anrede>
+  <text>
+    <para>Das ist ein Test Para</para>
+    <para>Das ist noch ein Test Para</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <itemizedlist mark="opencircle">
+      <listitem>
+        <para>
+TeX and LaTeX
+</para>
+      </listitem>
+      <listitem override="bullet">
+        <para>
+Troff
+</para>
+      </listitem>
+      <listitem>
+        <para>
+Lout
+</para>
+      </listitem>
+    </itemizedlist>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+    <para>Da muss noch ne Menge Content stehen damit der brief beschrieben wird</para>
+  </text>
+  <grussformel>Mit freundlichen Grüßen</grussformel>
+</dinbrief>
